@@ -1,0 +1,37 @@
+# Ignore directories for saved models and temporary files
+save/
+tmp/
+
+# Ignore model checkpoint files
+*.pt
+*.bin
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore environment variable files
+.env
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore compiled files
+*.out
+*.o
+*.class
+
+# Ignore Python specific files
+__pycache__/
+*.pyc

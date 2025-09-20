@@ -1,0 +1,9 @@
+templates:
+  - "a histopathology slide showing {}"
+  - "histopathology image of {}"
+  - "pathology tissue showing {}"
+  - "presence of {} tissue on image"
+  - "an image of {}."
+  - "an image showing {}."
+  - "an example of {}."
+  - "there is {}."
